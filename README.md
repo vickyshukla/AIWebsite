@@ -1,5 +1,7 @@
 # AIWebsite
+
 Experience the power of AI with our advanced platform, built using ReactJS, Tailwind CSS, and TypeScript for a seamless, responsive.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
