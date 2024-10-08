@@ -13,9 +13,10 @@ const Header = () => {
 
         <nav
           className="hidden fixed top-[5rem] left-0 right-0 bottom-0
-         bg-n-8 lg:static lg:flex lg:ms-auto lg:bg-transparent"
+         bg-n-8 lg:static lg:flex lg:mx-auto lg:bg-transparent"
         >
-          <div>
+          <div className="hidden fixed top-[5rem] left-0 right-0 bottom-0
+           bg-n-8 lg:static lg:flex">
             
           </div>
         </nav>
